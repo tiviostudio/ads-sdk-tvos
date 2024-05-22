@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "TivioMarkerInternal.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -14,6 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(readonly) NSUInteger startPosition;
 @property(readonly) NSString* type;
 @property(readonly) NSString* uri;
+@property(readonly) NSArray<TivioMarker *> *markers;
 
 - (id) initWithChannel:(NSString *)channelName
                   mode:(NSString*) mode
