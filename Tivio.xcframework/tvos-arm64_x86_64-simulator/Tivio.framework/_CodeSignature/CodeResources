@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		cQP5lUQidUQH3+APZy6x/rNpfJ0=
+		eRw/ymm5qJ3FoMyypLZPNMU5uWE=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -31,7 +31,7 @@
 		</data>
 		<key>Headers/TivioManager.h</key>
 		<data>
-		xDvCqS8KYLLfr6Pln45rJUesD78=
+		xK0On1K2mCqsW9YD4/+pofHdDWM=
 		</data>
 		<key>Headers/TivioMarker.h</key>
 		<data>
@@ -39,7 +39,7 @@
 		</data>
 		<key>Headers/TivioPlayerSource.h</key>
 		<data>
-		F8I8Iy1nvB+Rr5BSfKvA9VRdDmU=
+		KLXcnpkI8kJMIqJggtxOQgFse3A=
 		</data>
 		<key>Headers/TivioPlayerWrapper.h</key>
 		<data>
@@ -59,7 +59,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vGT/f9Tlcy1oR93XcpK4u7VGuNQ=
+		q/LsqLPJKpo2umz5LH7sgpiw9Xk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		cwvKTt5xohZ20KihZG85iVZ3r74=
+		D+YdFmDnN+ZqfjFOAnh0b0n8LZI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -76,7 +76,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1L0ahZVGwBya333xHxxYEHbBrkTXA9QDnVWfdeFlRRU=
+			f7avxpXR6mEW4Wj/X9BXUecRd55tJNKTNaLupguD594=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FfscB+hWGyYs0ywraNvxNsv+Hm4PnMYcqI7VSwPcJSE=
+			MG/x2hnoeTV1mg1+3U386CKJ0HUYjV4rl+ggqv307Xw=
 			</data>
 		</dict>
 		<key>Headers/TivioMarker.h</key>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L6OGTLVWn2HOw+iHNZWOVmscFwtKQK2dBQSchG257vE=
+			hBSKs0MwXxMxEpEjeEDd1G5ldQmEkHu5nrGi0dGq5Ow=
 			</data>
 		</dict>
 		<key>Headers/TivioPlayerWrapper.h</key>
@@ -169,7 +169,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DP4h+GIsAhBQ6qMbjKMq7To0t2qwN5gkmfBvUo/14Gw=
+			tZ10bWgTbrRe+dwW3yf8eHiCLkhMfbBKKMSNBS5+bgg=
 			</data>
 		</dict>
 	</dict>

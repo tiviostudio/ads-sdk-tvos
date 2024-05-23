@@ -23,7 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (Tivio *)getManager;
 + (TivioPlayerWrapper*)getPlayerWrapper;
 + (void)getProgramTimestamps:(NSString *)channelName epgFrom: (NSUInteger)epgFrom epgTo: (NSUInteger)epgTo complete: (void(^)(NSInteger startTimestamp, NSInteger endTimestamp)) complete;
-+ (NSArray<TivioEpgItem*> *)getEpgData;
++ (void)getEpgDataWithCompletion:(void (^)(NSArray<TivioEpgItem*>* epgData))completion;
 
 @end
 
