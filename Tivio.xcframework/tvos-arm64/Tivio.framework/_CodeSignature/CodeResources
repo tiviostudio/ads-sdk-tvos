@@ -31,11 +31,15 @@
 		</data>
 		<key>Headers/TivioManager.h</key>
 		<data>
-		xK0On1K2mCqsW9YD4/+pofHdDWM=
+		7LKrtegi8LBXZ2hpJs/d0MIu0aM=
 		</data>
 		<key>Headers/TivioMarker.h</key>
 		<data>
 		55c+Otsw8AzEsLCbVCP/sAgzznE=
+		</data>
+		<key>Headers/TivioMarkerInternal.h</key>
+		<data>
+		oPlIyU4QWtQ3WDOiot8pqIT3irM=
 		</data>
 		<key>Headers/TivioPlayerSource.h</key>
 		<data>
@@ -59,7 +63,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RenCXOvgHpSIbNIBRc1R/q9YwXk=
+		xmIOpvz2iyn3qTg/bLtF5ztrd0A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -113,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MG/x2hnoeTV1mg1+3U386CKJ0HUYjV4rl+ggqv307Xw=
+			66wF3J0DXU+YhJDzoalecmxFyWOUuvnx/OiFB2rQn64=
 			</data>
 		</dict>
 		<key>Headers/TivioMarker.h</key>
@@ -121,6 +125,13 @@
 			<key>hash2</key>
 			<data>
 			RIMx+YnSUpjsplR3xQYl3VYkafOiRfjHKts2gG0tuVc=
+			</data>
+		</dict>
+		<key>Headers/TivioMarkerInternal.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cjCwNOLodlRN6obSVtji3UqxUC9OqNTFBuRmgd8O3zk=
 			</data>
 		</dict>
 		<key>Headers/TivioPlayerSource.h</key>
