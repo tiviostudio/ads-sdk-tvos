@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/richardbiros/Library/Developer/Xcode/DerivedData/tivio-gajrrxlkdluqitfoyxhsgfhelvyk/Build/Intermediates.noindex/ArchiveIntermediates/Tivio-tvOS/InstallationBuildProductsLocation/Library/Frameworks/Tivio.framework/Tivio'
+binary-path:     '/Users/richardbiros/Library/Developer/Xcode/DerivedData/tivio-gajrrxlkdluqitfoyxhsgfhelvyk/Build/Intermediates.noindex/ArchiveIntermediates/example-tvos/InstallationBuildProductsLocation/Library/Frameworks/Tivio.framework/Tivio'
 relocations:
   - { offsetInCU: 0x34, offset: 0x5444F, size: 0x8, addend: 0x0, symName: _TivioVersionString, symObjAddr: 0x0, symBinAddr: 0x163F00, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x54484, size: 0x8, addend: 0x0, symName: _TivioVersionNumber, symObjAddr: 0x28, symBinAddr: 0x163F28, symSize: 0x0 }

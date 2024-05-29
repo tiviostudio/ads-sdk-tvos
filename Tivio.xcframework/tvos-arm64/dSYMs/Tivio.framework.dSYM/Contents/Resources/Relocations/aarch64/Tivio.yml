@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/richardbiros/Library/Developer/Xcode/DerivedData/tivio-gajrrxlkdluqitfoyxhsgfhelvyk/Build/Intermediates.noindex/ArchiveIntermediates/Tivio-tvOS/InstallationBuildProductsLocation/Library/Frameworks/Tivio.framework/Tivio'
+binary-path:     '/Users/richardbiros/Library/Developer/Xcode/DerivedData/tivio-gajrrxlkdluqitfoyxhsgfhelvyk/Build/Intermediates.noindex/ArchiveIntermediates/example-tvos/InstallationBuildProductsLocation/Library/Frameworks/Tivio.framework/Tivio'
 relocations:
   - { offsetInCU: 0x34, offset: 0x5291A, size: 0x8, addend: 0x0, symName: _TivioVersionString, symObjAddr: 0x0, symBinAddr: 0x1608C0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x5294F, size: 0x8, addend: 0x0, symName: _TivioVersionNumber, symObjAddr: 0x28, symBinAddr: 0x1608E8, symSize: 0x0 }
@@ -133,7 +133,7 @@ relocations:
   - { offsetInCU: 0x861, offset: 0x55655, size: 0x8, addend: 0x0, symName: '-[TivioPlayerSource setStreamStart:]', symObjAddr: 0x6D0, symBinAddr: 0x9EBC, symSize: 0xC }
   - { offsetInCU: 0x8A2, offset: 0x55696, size: 0x8, addend: 0x0, symName: '-[TivioPlayerSource .cxx_destruct]', symObjAddr: 0x6DC, symBinAddr: 0x9EC8, symSize: 0x90 }
   - { offsetInCU: 0x27, offset: 0x557A2, size: 0x8, addend: 0x0, symName: '-[PlayerWrapperBridge init]', symObjAddr: 0x0, symBinAddr: 0x9F58, symSize: 0x88 }
-  - { offsetInCU: 0x41, offset: 0x557BC, size: 0x8, addend: 0x0, symName: __bridge, symObjAddr: 0x61B0, symBinAddr: 0x207458, symSize: 0x0 }
+  - { offsetInCU: 0x41, offset: 0x557BC, size: 0x8, addend: 0x0, symName: __bridge, symObjAddr: 0x61B8, symBinAddr: 0x207458, symSize: 0x0 }
   - { offsetInCU: 0x1B9, offset: 0x55934, size: 0x8, addend: 0x0, symName: '+[PlayerWrapperBridge __rct_export__350]', symObjAddr: 0x98, symBinAddr: 0x9FF0, symSize: 0xC }
   - { offsetInCU: 0x1E3, offset: 0x5595E, size: 0x8, addend: 0x0, symName: ___rct_export__350.config, symObjAddr: 0x1A58, symBinAddr: 0x2043F8, symSize: 0x0 }
   - { offsetInCU: 0x24E, offset: 0x559C9, size: 0x8, addend: 0x0, symName: '+[PlayerWrapperBridge __rct_export__431]', symObjAddr: 0x1A4, symBinAddr: 0xA0FC, symSize: 0xC }
