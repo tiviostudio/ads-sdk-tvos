@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		eRw/ymm5qJ3FoMyypLZPNMU5uWE=
+		cQP5lUQidUQH3+APZy6x/rNpfJ0=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -23,7 +23,11 @@
 		</data>
 		<key>Headers/TivioAdMetadata.h</key>
 		<data>
-		Gty5Wa91/pHomaa1vRcwa0Kq7dU=
+		+rPG6eS9WEJmfy582KP0kt8OAdo=
+		</data>
+		<key>Headers/TivioAdMetadataInternal.h</key>
+		<data>
+		Sw3pUrjY866FTFVp9j0vlqaXfAE=
 		</data>
 		<key>Headers/TivioEpgItem.h</key>
 		<data>
@@ -39,11 +43,11 @@
 		</data>
 		<key>Headers/TivioMarkerInternal.h</key>
 		<data>
-		oPlIyU4QWtQ3WDOiot8pqIT3irM=
+		1PhSYO7NB68RxXik3nwer7+DjR8=
 		</data>
 		<key>Headers/TivioPlayerSource.h</key>
 		<data>
-		UN2cy3/t839Xs2mOXWnA8Ylx5KI=
+		6Psffc4J6SklfP05MNddhNQK3m4=
 		</data>
 		<key>Headers/TivioPlayerWrapper.h</key>
 		<data>
@@ -63,7 +67,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AkHI9mC7WGYs8pVabfyb6VTAJjg=
+		MEgsgmE+NGgrHzgZjY58qa1XJH0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +75,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		FCCwOHRwapKotNNF8uL8NuolbiY=
+		cwvKTt5xohZ20KihZG85iVZ3r74=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -80,7 +84,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f7avxpXR6mEW4Wj/X9BXUecRd55tJNKTNaLupguD594=
+			1L0ahZVGwBya333xHxxYEHbBrkTXA9QDnVWfdeFlRRU=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -103,7 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qNkvgHSriTPHHwbIYXCzG4/x+RVxEsIa76Mio0EBYJ8=
+			RYueIQs6CQV5+2iXKJzRvvnlx79CyhJpFKDOAPqKD6Y=
+			</data>
+		</dict>
+		<key>Headers/TivioAdMetadataInternal.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			33PFE484ndGt10K2PGyIkdAPtN/rWnOdguw9DZ6zvJA=
 			</data>
 		</dict>
 		<key>Headers/TivioEpgItem.h</key>
@@ -131,14 +142,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cjCwNOLodlRN6obSVtji3UqxUC9OqNTFBuRmgd8O3zk=
+			6xgi12AF/4FTk3vlgnchZeW7KeqJDygDCP7K5Mj0Sto=
 			</data>
 		</dict>
 		<key>Headers/TivioPlayerSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CU0//RwEVRWLhZnkvzTciD4BdbsaYuc3+eQRrSUYEFc=
+			oMq3YqHjgr/MAG0jerODoVrzUtDQ8Qe73MlbNntfyro=
 			</data>
 		</dict>
 		<key>Headers/TivioPlayerWrapper.h</key>
@@ -180,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3GnCTPPbnKPM+8z5xGv9dDdsHF3DZA/IK2c9KOWjrbc=
+			DP4h+GIsAhBQ6qMbjKMq7To0t2qwN5gkmfBvUo/14Gw=
 			</data>
 		</dict>
 	</dict>
