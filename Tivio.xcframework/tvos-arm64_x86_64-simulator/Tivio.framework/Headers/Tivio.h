@@ -18,8 +18,6 @@ FOUNDATION_EXPORT const unsigned char sdkVersionString[];
 #import <Tivio/TivioAdMetadata.h>
 #import <Tivio/TivioManager.h>
 #import <Tivio/TivioMarker.h>
-#import <Tivio/TivioEpgItem.h>
 #import <Tivio/TivioPlayerSource.h>
 #import <Tivio/TivioPlayerWrapper.h>
 #import <Tivio/TivioPlayerWrapperDelegate.h>
-#import <Tivio/TivioProgramGuideDelegate.h>

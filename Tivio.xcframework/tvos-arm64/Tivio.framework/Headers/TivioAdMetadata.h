@@ -1,19 +1,24 @@
+//
+//  TivioAdMetadata.h
+//  Tivio
+//
+//  Created by Ladislav Navratil on 10.02.2022.
+//
+
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface TivioAdMetadata : NSObject
 
-@property(nonatomic, readonly) BOOL canTriggerSkip;
-@property(nonatomic, readonly) BOOL isSkippable;
-@property(nonatomic, readonly) NSUInteger order;
-@property(nonatomic, readonly) NSString* subType;
-@property(nonatomic, readonly) NSUInteger secondsToEnd;
-@property(nonatomic, readonly) NSUInteger secondsToSkippable;
-@property(nonatomic, readonly) NSUInteger totalCount;
-@property(nonatomic, readonly) NSString* type;
-
-- (instancetype)init NS_UNAVAILABLE;
+@property(readonly) BOOL canTriggerSkip;
+@property(readonly) BOOL isSkippable;
+@property(readonly) NSUInteger order;
+@property(readonly) NSString* subType;
+@property(readonly) NSUInteger secondsToEnd;
+@property(readonly) NSUInteger secondsToSkippable;
+@property(readonly) NSUInteger totalCount;
+@property(readonly) NSString* type;
 
 @end
 
