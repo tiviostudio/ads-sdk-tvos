@@ -1,11 +1,6 @@
-//
-//  TivioPlayerSource.h
-//  Tivio
-//
-//  Created by Ladislav Navratil on 16.01.2022.
-//
-
 #import <Foundation/Foundation.h>
+#import "TivioMarkerInternal.h"
+#import "TivioAdMetadata.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -14,22 +9,26 @@ NS_ASSUME_NONNULL_BEGIN
 @property(readonly) NSUInteger startPosition;
 @property(readonly) NSString* type;
 @property(readonly) NSString* uri;
+@property(readonly) NSArray<TivioMarker *> *markers;
+@property(readonly, nullable) TivioAdMetadata *adMetadata;
 
-- (id) initWithChannel:(NSString *)channelName
-                  mode:(NSString*) mode
-                   uri:(NSString*) uri
-               epgFrom: (NSUInteger)epgFrom
-                 epgTo: (NSUInteger)epgTo
-           streamStart:(NSUInteger)streamStart
-     startFromPosition: (NSUInteger) startFromPosition;
+- (id)initWithChannel:(NSString *)channelName
+                 mode:(NSString*)mode
+                  uri:(NSString*)uri
+              epgFrom:(NSDate *)epgFrom
+                epgTo:(NSDate *)epgTo
+          streamStart:(NSDate *)streamStart
+    startFromPosition:(NSUInteger)startFromPosition;
 
-- (id) initWithChannel:(NSString *)channelName
-                  mode:(NSString*) mode
-                   uri:(NSString*) uri
-               epgFrom: (NSUInteger)epgFrom
-                 epgTo: (NSUInteger)epgTo
-           streamStart:(NSUInteger)streamStart
-     continueFromPosition: (NSUInteger) continueFromPosition;
+- (id)initWithChannel:(NSString *)channelName
+                 mode:(NSString*)mode
+                  uri:(NSString*)uri
+              epgFrom:(NSDate *)epgFrom
+                epgTo:(NSDate *)epgTo
+          streamStart:(NSDate *)streamStart
+ continueFromPosition:(NSUInteger)continueFromPosition;
+
+- (id)initWithData:(NSDictionary *)data;
 
 @end
 

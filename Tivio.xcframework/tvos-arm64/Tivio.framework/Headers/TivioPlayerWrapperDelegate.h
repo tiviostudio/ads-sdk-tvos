@@ -8,6 +8,7 @@
 @class TivioAdMetadata;
 @class TivioMarker;
 @class TivioPlayerSource;
+@class TivioEpgItem;
 
 @protocol TivioPlayerWrapperDelegate
 
@@ -15,5 +16,6 @@
 - (void) onMarkers: (NSArray<TivioMarker*> *) markers;
 - (void) setSource: (TivioPlayerSource*) source;
 - (void) seekTo: (NSUInteger) miliseconds;
+- (void) onEpgData: (NSArray<TivioEpgItem*> *) epgData;
 
 @end

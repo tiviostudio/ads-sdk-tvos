@@ -19,31 +19,47 @@
 		</dict>
 		<key>Headers/Tivio.h</key>
 		<data>
-		pXrVV/4WT7MYiHbMtBfPRMy3HdU=
+		txk5qQKqH9tv/LiO2r9qXcyY2Pk=
 		</data>
 		<key>Headers/TivioAdMetadata.h</key>
 		<data>
-		Gty5Wa91/pHomaa1vRcwa0Kq7dU=
+		+rPG6eS9WEJmfy582KP0kt8OAdo=
+		</data>
+		<key>Headers/TivioAdMetadataInternal.h</key>
+		<data>
+		Sw3pUrjY866FTFVp9j0vlqaXfAE=
+		</data>
+		<key>Headers/TivioEpgItem.h</key>
+		<data>
+		JCX9eYY/xwKaGAFAtpSM5LWiCVc=
 		</data>
 		<key>Headers/TivioManager.h</key>
 		<data>
-		q3myJ43NTLnnTEE3UPXmbyYQueQ=
+		7LKrtegi8LBXZ2hpJs/d0MIu0aM=
 		</data>
 		<key>Headers/TivioMarker.h</key>
 		<data>
 		55c+Otsw8AzEsLCbVCP/sAgzznE=
 		</data>
+		<key>Headers/TivioMarkerInternal.h</key>
+		<data>
+		1PhSYO7NB68RxXik3nwer7+DjR8=
+		</data>
 		<key>Headers/TivioPlayerSource.h</key>
 		<data>
-		CEhZyWsMljAag6LEWYvNADjgn9c=
+		6Psffc4J6SklfP05MNddhNQK3m4=
 		</data>
 		<key>Headers/TivioPlayerWrapper.h</key>
 		<data>
-		2PvEaMoKDPRJ5A5HnTSCtPUj12U=
+		gd6N3QFQ2w+WGT2dCmXpjs7HCLA=
 		</data>
 		<key>Headers/TivioPlayerWrapperDelegate.h</key>
 		<data>
-		QDoQGWD3kw0Swi3iT5Ha4jqNRAs=
+		nKjuFP6Y5QgGH9MZUQ/O3vcyfuI=
+		</data>
+		<key>Headers/TivioProgramGuideDelegate.h</key>
+		<data>
+		BjTMXjvkCNxBElWU/0QJbhli+is=
 		</data>
 		<key>Headers/Tivio_tvOS.h</key>
 		<data>
@@ -51,7 +67,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		p7S5d06gf+gA3GRA/Msdv5mABaA=
+		5ZnqKwwiySrakhvCfqdueJi52cw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,7 +75,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		cwvKTt5xohZ20KihZG85iVZ3r74=
+		q358gmkMAJ0XUDVgxVoz8YHNwvo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,21 +100,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7WnYVMbOME4ncevLp0bLmOWJHv0/6chDpqi9QIr2QHw=
+			pMpRt9up56fR9Qwrmd6K3jQOepizgbudG6v2+DOm8wU=
 			</data>
 		</dict>
 		<key>Headers/TivioAdMetadata.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qNkvgHSriTPHHwbIYXCzG4/x+RVxEsIa76Mio0EBYJ8=
+			RYueIQs6CQV5+2iXKJzRvvnlx79CyhJpFKDOAPqKD6Y=
+			</data>
+		</dict>
+		<key>Headers/TivioAdMetadataInternal.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			33PFE484ndGt10K2PGyIkdAPtN/rWnOdguw9DZ6zvJA=
+			</data>
+		</dict>
+		<key>Headers/TivioEpgItem.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KgGu/vu75bFlqOPKiOIwMZpeHqi6WicortzeG1ZZNP0=
 			</data>
 		</dict>
 		<key>Headers/TivioManager.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			APgUmu0TZOVV3IoZOov76EEcgV6g2rdEwzBS+bL8FTQ=
+			66wF3J0DXU+YhJDzoalecmxFyWOUuvnx/OiFB2rQn64=
 			</data>
 		</dict>
 		<key>Headers/TivioMarker.h</key>
@@ -108,25 +138,39 @@
 			RIMx+YnSUpjsplR3xQYl3VYkafOiRfjHKts2gG0tuVc=
 			</data>
 		</dict>
+		<key>Headers/TivioMarkerInternal.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6xgi12AF/4FTk3vlgnchZeW7KeqJDygDCP7K5Mj0Sto=
+			</data>
+		</dict>
 		<key>Headers/TivioPlayerSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BrrLGsoM5zlLY8X8Bi5tOn/x4KxkK10LtsDHLKIUBcg=
+			oMq3YqHjgr/MAG0jerODoVrzUtDQ8Qe73MlbNntfyro=
 			</data>
 		</dict>
 		<key>Headers/TivioPlayerWrapper.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D/Neg4D9+6QqafWYJWbRP2LeQtIqyo1KBBZX+WqfsGI=
+			VNDsBlGD4Lre6jEbigg0jGODCW6X5TtqyI7FzfO7S/I=
 			</data>
 		</dict>
 		<key>Headers/TivioPlayerWrapperDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oKfVYF8hMH736C9UaSWL7r51f2OnC5XiyRK9NY20Brk=
+			CiaoNZ+MhhFJ9LK0sVFYoo0Xi779jYibOZofqbGxtgQ=
+			</data>
+		</dict>
+		<key>Headers/TivioProgramGuideDelegate.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4losT//g0tDSsuLb71zNrhPYxrLoZ3lk9sfNewXsim4=
 			</data>
 		</dict>
 		<key>Headers/Tivio_tvOS.h</key>
@@ -147,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DP4h+GIsAhBQ6qMbjKMq7To0t2qwN5gkmfBvUo/14Gw=
+			qMupDEjQ34dQpg3NKuauhpHcAEMcE++5OxmJCZqdVxw=
 			</data>
 		</dict>
 	</dict>

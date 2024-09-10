@@ -19,6 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void) reportPlaybackEnded;
 - (void) reportTimeProgress: (NSUInteger) miliseconds;
+- (void) playerOnTop: (BOOL) isPlayerOnTop;
 - (void) seekTo: (NSUInteger) miliseconds;
 - (void) setSource: (TivioPlayerSource*) source calibrationId:(NSString *)calibrationId;
 - (void) skipAd;
